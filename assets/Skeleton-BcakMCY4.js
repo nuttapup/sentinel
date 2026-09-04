@@ -1,0 +1,1 @@
+import{j as d}from"./index-D8SWrkkL.js";const p=({height:o,width:e="100%",radius:r=4,circle:s=!1,className:t,style:n})=>{const a=typeof e=="number"?`${e}px`:e,i=s?"50%":`${r}px`;return d.jsx("div",{className:["sk-bone",s?"sk-circle":"",t??""].filter(Boolean).join(" "),style:{height:`${o}px`,width:a,borderRadius:i,...n},"aria-hidden":"true"})};export{p as S};

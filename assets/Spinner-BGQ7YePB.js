@@ -1,0 +1,1 @@
+import{j as i}from"./index-D8SWrkkL.js";const o=({size:n="md",variant:e="default",className:s,label:r="กำลังโหลด..."})=>{const t=["sentinel-spinner",n==="sm"?"sentinel-spinner--sm":"",n==="lg"?"sentinel-spinner--lg":"",e==="error"?"sentinel-spinner--error":"",s??""].filter(Boolean).join(" ");return i.jsx("div",{className:t,role:"status","aria-label":r})};export{o as S};

@@ -1,0 +1,1 @@
+import{j as r}from"./index-D8SWrkkL.js";import{B as s}from"./Badge-ddLcYUed.js";const o=({status:a})=>a?r.jsx(s,{variant:"success",children:"ใช้งาน"}):r.jsx(s,{variant:"error",children:"ปิดใช้งาน"});export{o as S};
