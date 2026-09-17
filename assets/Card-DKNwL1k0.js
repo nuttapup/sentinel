@@ -1,0 +1,1 @@
+import{j as t}from"./index-ZG-tiNty.js";/* empty css                  */const n=({hover:s=!1,children:e,className:r="",...a})=>t.jsx("div",{className:`sentinel-card${s?" sentinel-card--hover":""} ${r}`,...a,children:e});export{n as C};
